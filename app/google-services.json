@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442280267451",
+    "project_id": "alarm-8461f",
+    "storage_bucket": "alarm-8461f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442280267451:android:bd5cae72cee8bc7492a39e",
+        "android_client_info": {
+          "package_name": "com.example.vitamin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442280267451-vmbjg6sevbg3h9ra5h5t2tllvpfoh7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvC-wmvMTxKC1Szhgg095lFZo8TZsLbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442280267451-vmbjg6sevbg3h9ra5h5t2tllvpfoh7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
